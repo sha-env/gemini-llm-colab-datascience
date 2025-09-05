@@ -75,7 +75,7 @@ To prepare this project for use in Google Colab, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sha-env/LLM-Based-Tools-and-Gemini-API-Integration-for-Data-Scientists.git
+   git clone https://github.com/sha-env/gemini-llm-colab-datascience.git
    ```
 2. **Upload the cloned directory to Google Drive**
    
